@@ -2,8 +2,8 @@ logs/*
 !.gitkeep
 node_modules/
 bower_components/
+app/users_data/*
 tmp
 .DS_Store
 .idea
-app/users_data/
-!app//users_data/index.html
+!app/users_data/index.html
