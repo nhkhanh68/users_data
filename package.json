@@ -11,4 +11,4 @@
   "scripts": {
     "start": "http-server -a localhost -p 9000 -c-1 ./app -d false -i false"
   }
-}
+} 
